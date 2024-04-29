@@ -40,10 +40,10 @@
     - DoG
     - DoH
 
-11. Optical Flow
-    - Lucas-Kanade
-    - Farneback
+11. ~~Optical Flow~~
+    - ~~Lucas-Kanade~~
+    - ~~Farneback~~
 
-12. Wavelets
-    - Wavelet Transform
-    - FFT & DWT
+12. ~~Wavelets~~
+    - ~~Wavelet Transform~~
+    - ~~FFT & DWT~~
